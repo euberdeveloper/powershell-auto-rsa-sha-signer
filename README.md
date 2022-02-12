@@ -1,5 +1,5 @@
 # powershell-auto-rsa-sha-signer
-My first script with Powershell, were I signed some certs with rsa-sha
+My first script with Powershell, in which I signed some certs with rsa-sha
 
 ## What is it
 
